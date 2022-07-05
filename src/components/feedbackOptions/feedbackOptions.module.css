@@ -1,0 +1,12 @@
+.btn {
+  /* border: none; */
+  width: 60px;
+  height: 30px;
+  outline: none;
+  cursor: pointer;
+  margin-left: 25px;
+}
+
+.btn:hover {
+  background-color: aqua;
+}

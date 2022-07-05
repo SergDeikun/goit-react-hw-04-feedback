@@ -1,0 +1,13 @@
+.section {
+  width: 400px;
+  border: 2px solid teal;
+  font-size: 25px;
+  font-weight: 800;
+  margin-left: 30px;
+}
+
+.title {
+  padding-left: 20px;
+  font-size: 25px;
+  font-weight: 800;
+}
