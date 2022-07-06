@@ -16,7 +16,6 @@ class App extends Component {
       [option]: prevState[option] + 1,
     }));
   };
-  onLeaveFeedback = () => {};
 
   countTotalFeedback = () => {
     const { good, neutral, bad } = this.state;

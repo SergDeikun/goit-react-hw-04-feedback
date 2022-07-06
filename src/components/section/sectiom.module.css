@@ -1,8 +1,6 @@
 .section {
   width: 400px;
-  border: 2px solid teal;
-  font-size: 25px;
-  font-weight: 800;
+  /* border: 2px solid teal; */
   margin-left: 30px;
 }
 
